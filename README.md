@@ -22,3 +22,6 @@ This is a Java-based text analysis application that processes user input and pro
 
 ## Author
 Amos Mhema
+
+## Sample Output
+<img width="725" height="200" alt="image" src="https://github.com/user-attachments/assets/cc21651e-0647-41c4-aa63-9d270f143817" />
